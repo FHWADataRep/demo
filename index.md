@@ -1,6 +1,6 @@
 ## FHWA WZDx Data Feed Specification
 
-[Home](https://fhwadatarep.github.io/demo/) | [References](https://fhwadatarep.github.io/demo/) | [Samples](https://fhwadatarep.github.io/demo/) | [Community](https://fhwadatarep.github.io/demo/) | [About](https://fhwadatarep.github.io/demo/)
+[Home](https://fhwadatarep.github.io/demo/) | [References](https://fhwadatarep.github.io/demo/references.html) | [Samples](https://fhwadatarep.github.io/demo/) | [Community](https://fhwadatarep.github.io/demo/) | [About](https://fhwadatarep.github.io/demo/)
 
 
 ### Markdown
