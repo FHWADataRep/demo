@@ -1,11 +1,11 @@
-## Welcome to GitHub Pages
+## FHWA WZDx Data Feed Specification
 
 [Home](https://fhwadatarep.github.io/demo/) | [References](https://fhwadatarep.github.io/demo/) | [Samples](https://fhwadatarep.github.io/demo/) | [Community](https://fhwadatarep.github.io/demo/) | [About](https://fhwadatarep.github.io/demo/)
 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This page introduces the scope and audience of the site, along with the objectives of the WZDx.  As this is an iterative activity, this page may also include future specification version release dates as well as relevant meetings and conferences.
 
 ```markdown
 Syntax highlighted code block
